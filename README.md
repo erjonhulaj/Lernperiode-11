@@ -8,8 +8,17 @@
 
 ## 15.08.2025
 
-- [ ] Modul 335
-- [ ] Auftrag 2
-- [ ] Auftrag 3
+- [x] Modul 335
+- [x] Auftrag 2
+- [x] Auftrag 3
+
+Heute habe ich die Aufträge 2 und 3 im Modul 335 erledigt. Dabei habe ich Layouts für eine Notizen-App erstellt und Prototypen gezeichnet. Es war spannend zu sehen, wie sich die Darstellung je nach Gerät und Ausrichtung verändert. Ich habe gelernt, dass eine App immer flexibel sein muss, damit sie auf allen Geräten gut nutzbar ist. Mit den Prototypen konnte ich meine Ideen besser sichtbar machen und die Bedienung mit Gesten berücksichtigen. Das hat mir geholfen, die Anforderungen von mobilen Apps besser zu verstehen. {91 Wörter}
+
+## 22.08.2025
+
+- [ ] Gespräch
+- [ ] Praktikum suchen / Bewerben
 
 Heute habe ich...
+
+
