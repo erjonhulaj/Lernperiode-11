@@ -19,12 +19,12 @@ Heute habe ich die Aufträge 2 und 3 im Modul 335 erledigt. Dabei habe ich Layou
 - [x] Gespräch
 - [x] Praktikum suchen / Bewerben
 
-Heute habe ich...
+Heute habe ich das Gespräch mit der Klassenlehrperson Herr Meyer gemacht und es lief gut. Danach habe ich Praktikumssstellen gesucht und mich auch beworben. {24 Wörter}
 
 ## 29.08.2025
 
 - [x] Kurzpräsentation für Praktikum
 - [x] Bewerben
 
-Heute habe ich...
+Heute habe ich die Kurzpräsentation für die Firma gemacht, bei der ich nächste Woche am Dienstag, einen Infonachmittag habe. {20 Wörter}
 
