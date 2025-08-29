@@ -16,9 +16,15 @@ Heute habe ich die Aufträge 2 und 3 im Modul 335 erledigt. Dabei habe ich Layou
 
 ## 22.08.2025
 
-- [ ] Gespräch
-- [ ] Praktikum suchen / Bewerben
+- [x] Gespräch
+- [x] Praktikum suchen / Bewerben
 
 Heute habe ich...
 
+## 29.08.2025
+
+- [x] Kurzpräsentation für Praktikum
+- [x] Bewerben
+
+Heute habe ich...
 
