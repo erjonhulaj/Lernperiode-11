@@ -28,3 +28,10 @@ Heute habe ich das Gespräch mit der Klassenlehrperson Herr Meyer gemacht und es
 
 Heute habe ich die Kurzpräsentation für die Firma gemacht, bei der ich nächste Woche am Dienstag, einen Infonachmittag habe. {20 Wörter}
 
+## 05.09.2025
+
+- [ ] Bewerben
+- [ ] Am Modul 335 arbeiten. (Applikation)
+
+Heute habe ich...
+
