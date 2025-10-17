@@ -30,8 +30,8 @@ Heute habe ich die Kurzpräsentation für die Firma gemacht, bei der ich nächst
 
 ## 05.09.2025
 
-- [ ] Bewerben
-- [ ] Am Modul 335 arbeiten. (Applikation)
+- [x] Bewerben
+- [x] Am Modul 335 arbeiten. (Applikation)
 
-Heute habe ich...
+Heute habe ich eine Bewerbung geschrieben und am Modul 335 gearbeitet. Ich habe das Programm fast fertig und muss noch ein paar Funktionen hinzufügen und nochmals testen. Danach muss ich noch das Portfolio fertig machen. {35 Wörter}
 
